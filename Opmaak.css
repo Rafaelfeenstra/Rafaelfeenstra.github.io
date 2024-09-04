@@ -1,8 +1,8 @@
 body {
-    background-color: navajowhite;
+    background-color: rgb(254, 236, 209);
   }
   
   h1 {
-    color: rgb(201, 168, 120);
-    margin-left: 100px;
+    color: black;
+    margin-left: 10px;
   }
