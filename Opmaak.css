@@ -14,7 +14,7 @@ body {
   }
   li a {
     display: block;
-    width: 60px;
+    width: 300px;
     text-decoration: none;
   }
   /* Change the link color on hover */
