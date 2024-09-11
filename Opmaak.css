@@ -22,3 +22,6 @@ li a:hover {
   background-color: #cdc3c3;
   color: white;
   }
+  .active {
+    background-color: #04AA6D;
+  }
