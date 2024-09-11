@@ -29,3 +29,7 @@ body {
   li a:hover {
     background-color: #000000;
   }
+  li {
+    border-right: 1px solid #bbb;
+  }
+  
