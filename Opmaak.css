@@ -12,7 +12,7 @@ body {
   ul {
     position: fixed;
     top: 0;
-    width: 10%;
+    width: 100%;
   }
   .active {
     background-color: #2460bb;
