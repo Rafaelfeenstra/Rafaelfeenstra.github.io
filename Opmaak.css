@@ -2,25 +2,10 @@ body {
     background-color: rgb(254, 236, 209);
   }
   
-  h1 {
-    color: black;
-    margin-left: 150px;
-  }
   ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #f1f1f1;
-  }
-  li a {
-    display: inline;
-    width: 300px;
-    text-decoration: none;
-  }
-  /* Change the link color on hover */
-li a:hover {
-  background-color: #cdc3c3;
-  color: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
   }
   .active {
     background-color: #04AA6D;
