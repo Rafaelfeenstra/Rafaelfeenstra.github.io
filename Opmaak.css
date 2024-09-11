@@ -1,7 +1,9 @@
 body {
     background-color: rgb(254, 236, 209);
   }
-  
+  li {
+    display: inline;
+  }
   ul {
     list-style-type: none;
     margin: 0;
