@@ -37,3 +37,6 @@ body {
 h1{
   margin-top: 60px;
 }
+footer > p {
+  font-size: 20px;
+}
